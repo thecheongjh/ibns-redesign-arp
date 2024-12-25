@@ -2,12 +2,12 @@
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="44px" height="44px" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip154">
+    <mask fill="white" id="Clip4">
       <path d="M 21 44  L 0 22  L 21 0  L 21 14  L 44 14  L 44 30  L 21 30  L 21 44  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -2779 -385 )">
     <path d="M 21 44  L 0 22  L 21 0  L 21 14  L 44 14  L 44 30  L 21 30  L 21 44  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" transform="matrix(1 0 0 1 2779 385 )" class="fill" />
-    <path d="M 21 44  L 0 22  L 21 0  L 21 14  L 44 14  L 44 30  L 21 30  L 21 44  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 2779 385 )" class="stroke" mask="url(#Clip154)" />
+    <path d="M 21 44  L 0 22  L 21 0  L 21 14  L 44 14  L 44 30  L 21 30  L 21 44  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 2779 385 )" class="stroke" mask="url(#Clip4)" />
   </g>
 </svg>

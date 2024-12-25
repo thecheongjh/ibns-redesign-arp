@@ -2,11 +2,11 @@
   margin:0px;
   background-color:rgba(99, 112, 116, 1);
   background-image:none;
-  position:static;
-  left:auto;
-  width:4480px;
-  margin-left:0;
-  margin-right:0;
+  position:relative;
+  left:-747px;
+  width:3733px;
+  margin-left:auto;
+  margin-right:auto;
   text-align:left;
 }
 .form_sketch {
