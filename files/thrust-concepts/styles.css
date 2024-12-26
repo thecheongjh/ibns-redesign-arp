@@ -2,11 +2,11 @@
   margin:0px;
   background-color:rgba(99, 112, 116, 1);
   background-image:none;
-  position:relative;
-  left:-747px;
-  width:3733px;
-  margin-left:auto;
-  margin-right:auto;
+  position:static;
+  left:auto;
+  width:4480px;
+  margin-left:0;
+  margin-right:0;
   text-align:left;
 }
 .form_sketch {
@@ -14005,7 +14005,7 @@
   border-width:0px;
   position:absolute;
   left:1103px;
-  top:943px;
+  top:940px;
   width:41px;
   height:916px;
   display:flex;
@@ -14046,7 +14046,7 @@
   border-width:0px;
   position:absolute;
   left:1103px;
-  top:943px;
+  top:940px;
   width:41px;
   height:455px;
   display:flex;
@@ -14070,7 +14070,7 @@
   border-width:0px;
   position:absolute;
   left:950px;
-  top:1329px;
+  top:1326px;
   width:194px;
   height:128px;
   touch-action:none;
@@ -14440,6 +14440,13 @@
   height:916px;
   background:inherit;
   background-color:rgba(44, 224, 83, 1);
+  box-sizing:border-box;
+  border-width:2px;
+  border-style:solid;
+  border-color:rgba(255, 255, 255, 0.996078431372549);
+  border-left:0px;
+  border-top:0px;
+  border-right:0px;
   border-radius:5px;
   border-top-left-radius:0px;
   border-top-right-radius:0px;
@@ -14452,7 +14459,7 @@
   border-width:0px;
   position:absolute;
   left:1655px;
-  top:943px;
+  top:940px;
   width:41px;
   height:916px;
   display:flex;
@@ -14493,7 +14500,7 @@
   border-width:0px;
   position:absolute;
   left:1655px;
-  top:943px;
+  top:940px;
   width:41px;
   height:455px;
   display:flex;
@@ -14516,7 +14523,7 @@
 #u1843 {
   position:absolute;
   left:1655px;
-  top:1329px;
+  top:1326px;
   touch-action:none;
 }
 #u1843_state0 {
@@ -14831,7 +14838,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:404px;
+  width:228px;
   height:106px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -14849,7 +14856,7 @@
   position:absolute;
   left:2408px;
   top:0px;
-  width:404px;
+  width:228px;
   height:106px;
   display:flex;
   transition:none;

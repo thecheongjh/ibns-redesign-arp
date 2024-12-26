@@ -2,11 +2,11 @@
   margin:0px;
   background-color:rgba(99, 112, 116, 1);
   background-image:none;
-  position:relative;
-  left:-86px;
-  width:4394px;
-  margin-left:auto;
-  margin-right:auto;
+  position:static;
+  left:auto;
+  width:4480px;
+  margin-left:0;
+  margin-right:0;
   text-align:left;
 }
 .form_sketch {
@@ -13990,7 +13990,7 @@
   left:0px;
   top:0px;
   width:41px;
-  height:916px;
+  height:913px;
   background:inherit;
   background-color:rgba(44, 224, 83, 1);
   border-radius:5px;
@@ -14007,7 +14007,7 @@
   left:1935px;
   top:943px;
   width:41px;
-  height:916px;
+  height:913px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
@@ -14818,6 +14818,13 @@
   height:916px;
   background:inherit;
   background-color:rgba(44, 224, 83, 1);
+  box-sizing:border-box;
+  border-width:2px;
+  border-style:solid;
+  border-color:rgba(255, 255, 255, 0.996078431372549);
+  border-left:0px;
+  border-top:0px;
+  border-right:0px;
   border-radius:5px;
   border-top-left-radius:0px;
   border-top-right-radius:0px;
@@ -29531,7 +29538,7 @@
   left:0px;
   top:0px;
   width:41px;
-  height:916px;
+  height:913px;
   background:inherit;
   background-color:rgba(44, 224, 83, 1);
   border-radius:5px;
@@ -29548,7 +29555,7 @@
   left:3428px;
   top:943px;
   width:41px;
-  height:916px;
+  height:913px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
@@ -30436,6 +30443,13 @@
   height:916px;
   background:inherit;
   background-color:rgba(44, 224, 83, 1);
+  box-sizing:border-box;
+  border-width:2px;
+  border-style:solid;
+  border-color:rgba(255, 255, 255, 0.996078431372549);
+  border-left:0px;
+  border-top:0px;
+  border-right:0px;
   border-radius:5px;
   border-top-left-radius:0px;
   border-top-right-radius:0px;
@@ -45210,7 +45224,7 @@
   left:0px;
   top:0px;
   width:41px;
-  height:916px;
+  height:913px;
   background:inherit;
   background-color:rgba(44, 224, 83, 1);
   border-radius:5px;
@@ -45227,7 +45241,7 @@
   left:442px;
   top:943px;
   width:41px;
-  height:916px;
+  height:913px;
   display:flex;
   transition:none;
   transform-origin:50% 50%;
@@ -45660,6 +45674,13 @@
   height:916px;
   background:inherit;
   background-color:rgba(44, 224, 83, 1);
+  box-sizing:border-box;
+  border-width:2px;
+  border-style:solid;
+  border-color:rgba(250, 253, 255, 0.996078431372549);
+  border-left:0px;
+  border-top:0px;
+  border-right:0px;
   border-radius:5px;
   border-top-left-radius:0px;
   border-top-right-radius:0px;
